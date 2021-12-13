@@ -32,7 +32,6 @@ def os(ttl):
 
     else:
         return "Not found"
-    return os
 
 if __name__=='__main__':
     try:
